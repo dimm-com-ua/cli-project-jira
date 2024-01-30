@@ -1,4 +1,4 @@
 mod pages;
-mod prompts;
+pub mod prompts;
 
 pub use pages::*;
